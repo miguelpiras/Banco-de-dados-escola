@@ -1,7 +1,4 @@
-# Modelagem e banco de dados em MySQL
-
-Trabalho acadêmico cujo a proposta é desenvolver um banco de dados para uma escola.
-Durante o projeto foi desenvolvido um modelo conceitual, lógico e o próprio banco no MySQL utilizando o <a href="https://dev.mysql.com/doc/">MySQL Workbench</a>.
+Projeto de banco de dados para uma escola, feito para estudos e desenvolvimento.
 
 sobre o banco de dados:
 - Existem outras entidades além dessas três (curso, turma, aluno)?               
